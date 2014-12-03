@@ -11,8 +11,6 @@ fe80::1%lo0	localhost
 
 #127.0.0.1 9gag.com
 
-127.0.0.1 netgraph.local
-
 # This MVPS HOSTS file is a free download from:            #
 # http://winhelp2002.mvps.org/hosts.htm                    #
 #                                                          #
